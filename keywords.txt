@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For DisplayS
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+DisplayS	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+zero	KEYWORD2
+one 	KEYWORD2
+two 	KEYWORD2
+three	KEYWORD2
+four	KEYWORD2
+five	KEYWORD2
+six	    KEYWORD2
+seven 	KEYWORD2
+eight	KEYWORD2
+nine 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
